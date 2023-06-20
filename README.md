@@ -1,4 +1,4 @@
-## OLÁ! Matheus Henrique aqui! Desenvolvedor de softwares e Tecnico em informatica.
+## OLÁ! Matheus Henrique aqui! Desenvolvedor de softwares e Tecnico em informatica
 Minhas principais linguagens de programação:
 <div>
 <img align="center" alt="Matheus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
