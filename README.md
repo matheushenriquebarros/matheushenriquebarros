@@ -7,7 +7,7 @@ Crio e desenvolvo sites, automatizo SEO técnico e otimizo conteúdo para IA gen
 
 <br>
 
-### 🧰 Stack principal
+### Stack principal
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript"/>
@@ -45,8 +45,4 @@ Crio e desenvolvo sites, automatizo SEO técnico e otimizo conteúdo para IA gen
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=matheushenriquebarros&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" alt="stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheushenriquebarros&theme=dark&hide_border=true" height="165" alt="streak"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushenriquebarros&layout=compact&theme=dark&hide_border=true" height="165" alt="top langs"/>
 </div>
